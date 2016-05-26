@@ -1,8 +1,8 @@
 # 자료구조 마지막 과제
 마지막 버닝해봐요 ><
 ## 과제 가이드라인
-1. Bubble sort
-2. Selection sort
+1. Bubble sort // 탁
+2. Selection sort 
 3. Insertion sort   // 서현
 4. Shell sort: Marcin Ciura’s increment 1, 4, 10, 23, 57, 132, 301, 701, 1750
 5. Shell sort: Hibbard’s increment: 1, 22-1, 23-1, ..., 2k-1 – 1, 2k-1
