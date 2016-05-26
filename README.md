@@ -1,5 +1,6 @@
-##자료구조 마지막 과제
-# 과제 가이드라인
+# 자료구조 마지막 과제
+마지막 버닝해봐요 ><
+## 과제 가이드라인
 1. Bubble sort
 2. Selection sort
 3. Insertion sort   // 서현
@@ -19,7 +20,7 @@
 For (9), (12), and (14), you should determine the CUT_SIZE for each test case empirically.
 
 
-#input
+##input
 [Input]
 Type 1 - Generate 20 test cases for each of sizes 10,000, 100,000, and 1,000,000 using the Knuth’s Random Shuffling method. (No duplicates in this type)
 1 “TunedTunedTunedTuned ” means that you use means that you use means that you use means that you use means that you use means that you use means that you use means that you use all improvement methods all improvement methodsall improvement methods all improvement methodsall improvement methodsall improvement methodsall improvement methods all improvement methodsall improvement methods all improvement methods all improvement methodsall improvement methodsall improvement methods for sorting.for sorting.for sorting.for sorting.for sorting.for sorting.for sorting.for sorting. for sorting.for sorting.for sorting.
