@@ -2,12 +2,12 @@
 마지막 버닝해봐요 ><
 ## 과제 가이드라인
 1. Bubble sort // 탁
-2. Selection sort 
+2. Selection sort //영환
 3. Insertion sort   // 서현
 4. Shell sort: Marcin Ciura’s increment 1, 4, 10, 23, 57, 132, 301, 701, 1750
 5. Shell sort: Hibbard’s increment: 1, 22-1, 23-1, ..., 2k-1 – 1, 2k-1
 6. Shell sort: Knuth’s increment: 1, 4, 13, 40, 121, 364, ... // (3h+1)
-7. Heap sort
+7. Heap sort  // 영환
 8. Quick sort  //서현
 9. Tuned1 quick sort
 10. 3-Way Quick sort (Dutch flag version)
